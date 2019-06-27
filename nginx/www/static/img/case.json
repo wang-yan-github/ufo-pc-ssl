@@ -1,0 +1,1225 @@
+{
+  "case": [
+    {
+      "cateId": 1,
+      "cateName": "办公空间",
+      "data": [
+        {
+          "name": "联想（兰州）",
+          "address": "兰州",
+          "details": "",
+          "order": "1",
+          "img": [
+            {
+              "order": "1",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/1.%E8%81%94%E6%83%B3%EF%BC%88%E5%85%B0%E5%B7%9E%EF%BC%89/1.jpg"
+            },
+            {
+              "order": "2",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/1.%E8%81%94%E6%83%B3%EF%BC%88%E5%85%B0%E5%B7%9E%EF%BC%89/2.jpg"
+            },
+            {
+              "order": "3",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/1.%E8%81%94%E6%83%B3%EF%BC%88%E5%85%B0%E5%B7%9E%EF%BC%89/3.jpg"
+            },
+            {
+              "order": "4",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/1.%E8%81%94%E6%83%B3%EF%BC%88%E5%85%B0%E5%B7%9E%EF%BC%89/4.jpg"
+            },
+            {
+              "order": "5",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/1.%E8%81%94%E6%83%B3%EF%BC%88%E5%85%B0%E5%B7%9E%EF%BC%89/5.jpg"
+            }
+          ]
+        },
+        {
+          "name": "G7智能互联",
+          "address": "成都",
+          "details": "",
+          "order": "2",
+          "img": [
+            {
+              "order": "1",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/2.G7%E6%99%BA%E8%83%BD%E4%BA%92%E8%81%94/1.jpg"
+            },
+            {
+              "order": "2",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/2.G7%E6%99%BA%E8%83%BD%E4%BA%92%E8%81%94/2.jpg"
+            },
+            {
+              "order": "3",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/2.G7%E6%99%BA%E8%83%BD%E4%BA%92%E8%81%94/3.jpg"
+            },
+            {
+              "order": "4",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/2.G7%E6%99%BA%E8%83%BD%E4%BA%92%E8%81%94/4.jpg"
+            },
+            {
+              "order": "5",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/2.G7%E6%99%BA%E8%83%BD%E4%BA%92%E8%81%94/5.jpg"
+            },
+            {
+              "order": "6",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/2.G7%E6%99%BA%E8%83%BD%E4%BA%92%E8%81%94/6.jpg"
+            }
+          ]
+        },
+        {
+          "name": "绵阳智慧城科技有限公司600平Loft办公室风格",
+          "address": "绵阳",
+          "details": "loft办公室风格案例在日常生活中是比较少见的，主要是以下几点：一、传统行业不能接受这新奇的办公环境，也就是行业局限性；二、60 70后的管理者不认可，也就是年龄欣赏性；三、符合这样条件的办公场地空间难以寻求，条件局限性。loft办公室设计主要以一种工业风呈现在世人眼前，以旧工厂和厂库改造而成的空间形态，这样的设计特点主要体现在流动性、透明性、开放性、艺术性。",
+          "order": "3",
+          "img": [
+            {
+              "order": "1",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/3.%E7%BB%B5%E9%98%B3%E6%99%BA%E6%85%A7%E5%9F%8E%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8600%E5%B9%B3Loft%E5%8A%9E%E5%85%AC%E5%AE%A4%E9%A3%8E%E6%A0%BC/1.jpg"
+            },
+            {
+              "order": "2",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/3.%E7%BB%B5%E9%98%B3%E6%99%BA%E6%85%A7%E5%9F%8E%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8600%E5%B9%B3Loft%E5%8A%9E%E5%85%AC%E5%AE%A4%E9%A3%8E%E6%A0%BC/2.jpg"
+            },
+            {
+              "order": "3",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/3.%E7%BB%B5%E9%98%B3%E6%99%BA%E6%85%A7%E5%9F%8E%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8600%E5%B9%B3Loft%E5%8A%9E%E5%85%AC%E5%AE%A4%E9%A3%8E%E6%A0%BC/3.jpg"
+            },
+            {
+              "order": "4",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/3.%E7%BB%B5%E9%98%B3%E6%99%BA%E6%85%A7%E5%9F%8E%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8600%E5%B9%B3Loft%E5%8A%9E%E5%85%AC%E5%AE%A4%E9%A3%8E%E6%A0%BC/4.jpg"
+            },
+            {
+              "order": "5",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/3.%E7%BB%B5%E9%98%B3%E6%99%BA%E6%85%A7%E5%9F%8E%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8600%E5%B9%B3Loft%E5%8A%9E%E5%85%AC%E5%AE%A4%E9%A3%8E%E6%A0%BC/5.jpg"
+            },
+            {
+              "order": "6",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/3.%E7%BB%B5%E9%98%B3%E6%99%BA%E6%85%A7%E5%9F%8E%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8600%E5%B9%B3Loft%E5%8A%9E%E5%85%AC%E5%AE%A4%E9%A3%8E%E6%A0%BC/6.jpg"
+            }
+          ]
+        },
+        {
+          "name": "悉地估计设计顾问（成都）有限公司",
+          "address": "成都",
+          "details": "",
+          "order": "4",
+          "img": [
+            {
+              "order": "1",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/4.%E6%82%89%E5%9C%B0%E4%BC%B0%E8%AE%A1%E8%AE%BE%E8%AE%A1%E9%A1%BE%E9%97%AE%EF%BC%88%E6%88%90%E9%83%BD%EF%BC%89%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/1.jpg"
+            },
+            {
+              "order": "2",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/4.%E6%82%89%E5%9C%B0%E4%BC%B0%E8%AE%A1%E8%AE%BE%E8%AE%A1%E9%A1%BE%E9%97%AE%EF%BC%88%E6%88%90%E9%83%BD%EF%BC%89%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/2.jpg"
+            },
+            {
+              "order": "3",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/4.%E6%82%89%E5%9C%B0%E4%BC%B0%E8%AE%A1%E8%AE%BE%E8%AE%A1%E9%A1%BE%E9%97%AE%EF%BC%88%E6%88%90%E9%83%BD%EF%BC%89%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/3.jpg"
+            },
+            {
+              "order": "4",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/4.%E6%82%89%E5%9C%B0%E4%BC%B0%E8%AE%A1%E8%AE%BE%E8%AE%A1%E9%A1%BE%E9%97%AE%EF%BC%88%E6%88%90%E9%83%BD%EF%BC%89%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/4.jpg"
+            },
+            {
+              "order": "5",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/4.%E6%82%89%E5%9C%B0%E4%BC%B0%E8%AE%A1%E8%AE%BE%E8%AE%A1%E9%A1%BE%E9%97%AE%EF%BC%88%E6%88%90%E9%83%BD%EF%BC%89%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/5.jpg"
+            },
+            {
+              "order": "6",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/4.%E6%82%89%E5%9C%B0%E4%BC%B0%E8%AE%A1%E8%AE%BE%E8%AE%A1%E9%A1%BE%E9%97%AE%EF%BC%88%E6%88%90%E9%83%BD%EF%BC%89%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/6.jpg"
+            },
+            {
+              "order": "6",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/4.%E6%82%89%E5%9C%B0%E4%BC%B0%E8%AE%A1%E8%AE%BE%E8%AE%A1%E9%A1%BE%E9%97%AE%EF%BC%88%E6%88%90%E9%83%BD%EF%BC%89%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/7.jpg"
+            }
+          ]
+        },
+        {
+          "name": "北京清华同衡设计研究院",
+          "address": "成都",
+          "details": "",
+          "order": "6",
+          "img": [
+            {
+              "order": "1",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/6.%E5%8C%97%E4%BA%AC%E6%B8%85%E5%8D%8E%E5%90%8C%E8%A1%A1%E8%AE%BE%E8%AE%A1%E7%A0%94%E7%A9%B6%E9%99%A2/1.jpg"
+            },
+            {
+              "order": "2",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/6.%E5%8C%97%E4%BA%AC%E6%B8%85%E5%8D%8E%E5%90%8C%E8%A1%A1%E8%AE%BE%E8%AE%A1%E7%A0%94%E7%A9%B6%E9%99%A2/2.jpg"
+            },
+            {
+              "order": "3",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/6.%E5%8C%97%E4%BA%AC%E6%B8%85%E5%8D%8E%E5%90%8C%E8%A1%A1%E8%AE%BE%E8%AE%A1%E7%A0%94%E7%A9%B6%E9%99%A2/3.jpg"
+            },
+            {
+              "order": "4",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/6.%E5%8C%97%E4%BA%AC%E6%B8%85%E5%8D%8E%E5%90%8C%E8%A1%A1%E8%AE%BE%E8%AE%A1%E7%A0%94%E7%A9%B6%E9%99%A2/4.jpg"
+            }
+          ]
+        },
+        {
+          "name": "美联英语教育中心",
+          "address": "成都",
+          "details": "",
+          "order": "7",
+          "img": [
+            {
+              "order": "1",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/7.%E7%BE%8E%E8%81%94%E8%8B%B1%E8%AF%AD%E6%95%99%E8%82%B2%E4%B8%AD%E5%BF%83/1.jpg"
+            },
+            {
+              "order": "2",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/7.%E7%BE%8E%E8%81%94%E8%8B%B1%E8%AF%AD%E6%95%99%E8%82%B2%E4%B8%AD%E5%BF%83/2.jpg"
+            },
+            {
+              "order": "3",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/7.%E7%BE%8E%E8%81%94%E8%8B%B1%E8%AF%AD%E6%95%99%E8%82%B2%E4%B8%AD%E5%BF%83/3.jpg"
+            },
+            {
+              "order": "4",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/7.%E7%BE%8E%E8%81%94%E8%8B%B1%E8%AF%AD%E6%95%99%E8%82%B2%E4%B8%AD%E5%BF%83/4.jpg"
+            },
+            {
+              "order": "5",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/7.%E7%BE%8E%E8%81%94%E8%8B%B1%E8%AF%AD%E6%95%99%E8%82%B2%E4%B8%AD%E5%BF%83/5.jpg"
+            },
+            {
+              "order": "6",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/7.%E7%BE%8E%E8%81%94%E8%8B%B1%E8%AF%AD%E6%95%99%E8%82%B2%E4%B8%AD%E5%BF%83/6.jpg"
+            }
+          ]
+        },
+        {
+          "name": "牛津少儿英语培训中心",
+          "address": "成都",
+          "details": "",
+          "order": "8",
+          "img": [
+            {
+              "order": "1",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/8.%E7%89%9B%E6%B4%A5%E5%B0%91%E5%84%BF%E8%8B%B1%E8%AF%AD%E5%9F%B9%E8%AE%AD%E4%B8%AD%E5%BF%83/1.jpg"
+            },
+            {
+              "order": "2",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/8.%E7%89%9B%E6%B4%A5%E5%B0%91%E5%84%BF%E8%8B%B1%E8%AF%AD%E5%9F%B9%E8%AE%AD%E4%B8%AD%E5%BF%83/2.jpg"
+            },
+            {
+              "order": "3",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/8.%E7%89%9B%E6%B4%A5%E5%B0%91%E5%84%BF%E8%8B%B1%E8%AF%AD%E5%9F%B9%E8%AE%AD%E4%B8%AD%E5%BF%83/3.jpg"
+            },
+            {
+              "order": "4",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/8.%E7%89%9B%E6%B4%A5%E5%B0%91%E5%84%BF%E8%8B%B1%E8%AF%AD%E5%9F%B9%E8%AE%AD%E4%B8%AD%E5%BF%83/4.jpg"
+            },
+            {
+              "order": "5",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/8.%E7%89%9B%E6%B4%A5%E5%B0%91%E5%84%BF%E8%8B%B1%E8%AF%AD%E5%9F%B9%E8%AE%AD%E4%B8%AD%E5%BF%83/5.jpg"
+            },
+            {
+              "order": "6",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/8.%E7%89%9B%E6%B4%A5%E5%B0%91%E5%84%BF%E8%8B%B1%E8%AF%AD%E5%9F%B9%E8%AE%AD%E4%B8%AD%E5%BF%83/6.jpg"
+            }
+          ]
+        },
+        {
+          "name": "远锦教育培训中心",
+          "address": "成都",
+          "details": "",
+          "order": "9",
+          "img": [
+            {
+              "order": "1",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/9.%E8%BF%9C%E9%94%A6%E6%95%99%E8%82%B2%E5%9F%B9%E8%AE%AD%E4%B8%AD%E5%BF%83/1.jpg"
+            },
+            {
+              "order": "2",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/9.%E8%BF%9C%E9%94%A6%E6%95%99%E8%82%B2%E5%9F%B9%E8%AE%AD%E4%B8%AD%E5%BF%83/2.jpg"
+            },
+            {
+              "order": "3",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/9.%E8%BF%9C%E9%94%A6%E6%95%99%E8%82%B2%E5%9F%B9%E8%AE%AD%E4%B8%AD%E5%BF%83/3.jpg"
+            },
+            {
+              "order": "4",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4/9.%E8%BF%9C%E9%94%A6%E6%95%99%E8%82%B2%E5%9F%B9%E8%AE%AD%E4%B8%AD%E5%BF%83/4.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cateId": 2,
+      "cateName": "别墅空间",
+      "data": [
+        {
+          "name": "港式简约风",
+          "address": "深圳",
+          "details": "代港式风格，简约而不失时尚，是一种典型的码头文化和殖民地文化相结合的产物；人们对装修装饰的效果总是充满希望经济、实用、舒适体现一点味道，而港式简约风不仅注重居住环境的实用性，而且也体现了现代文明的表现；港式风格在空间处理上色彩清冷、线条简单。",
+          "order": "1",
+          "img": [
+            {
+              "order": "1",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%88%AB%E5%A2%85%E7%A9%BA%E9%97%B4/1.%E6%B8%AF%E5%BC%8F%E7%AE%80%E7%BA%A6%E9%A3%8E/1.jpg"
+            },
+            {
+              "order": "2",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%88%AB%E5%A2%85%E7%A9%BA%E9%97%B4/1.%E6%B8%AF%E5%BC%8F%E7%AE%80%E7%BA%A6%E9%A3%8E/2.jpg"
+            },
+            {
+              "order": "3",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%88%AB%E5%A2%85%E7%A9%BA%E9%97%B4/1.%E6%B8%AF%E5%BC%8F%E7%AE%80%E7%BA%A6%E9%A3%8E/3.jpg"
+            },
+            {
+              "order": "4",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%88%AB%E5%A2%85%E7%A9%BA%E9%97%B4/1.%E6%B8%AF%E5%BC%8F%E7%AE%80%E7%BA%A6%E9%A3%8E/4.jpg"
+            },
+            {
+              "order": "5",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%88%AB%E5%A2%85%E7%A9%BA%E9%97%B4/1.%E6%B8%AF%E5%BC%8F%E7%AE%80%E7%BA%A6%E9%A3%8E/5.jpg"
+            },
+            {
+              "order": "6",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%88%AB%E5%A2%85%E7%A9%BA%E9%97%B4/1.%E6%B8%AF%E5%BC%8F%E7%AE%80%E7%BA%A6%E9%A3%8E/6.jpg"
+            }
+          ]
+        },
+        {
+          "name": "法式风格样板房",
+          "address": "成都",
+          "details": "由于人们生活物质水平线上的追求，本案结合整体的楼盘风格以及主打理念，以欧洲法式古典宫廷风格为主，这些繁复的线条，象征了贵族气息的图腾及色彩，大理石及造型线板，暖色调的灯光，浅色的碎花，这些设计元素使空间在低调中略带奢华。通过细腻的手法，多层的线条变现手法，使整个空间如欧式皇宫般富丽堂皇。",
+          "order": "2",
+          "img": [
+            {
+              "order": "1",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%88%AB%E5%A2%85%E7%A9%BA%E9%97%B4/2.%E6%B3%95%E5%BC%8F%E9%A3%8E%E6%A0%BC%E6%A0%B7%E6%9D%BF%E6%88%BF/1.jpg"
+            },
+            {
+              "order": "2",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%88%AB%E5%A2%85%E7%A9%BA%E9%97%B4/2.%E6%B3%95%E5%BC%8F%E9%A3%8E%E6%A0%BC%E6%A0%B7%E6%9D%BF%E6%88%BF/2.jpg"
+            },
+            {
+              "order": "3",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%88%AB%E5%A2%85%E7%A9%BA%E9%97%B4/2.%E6%B3%95%E5%BC%8F%E9%A3%8E%E6%A0%BC%E6%A0%B7%E6%9D%BF%E6%88%BF/3.jpg"
+            },
+            {
+              "order": "4",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%88%AB%E5%A2%85%E7%A9%BA%E9%97%B4/2.%E6%B3%95%E5%BC%8F%E9%A3%8E%E6%A0%BC%E6%A0%B7%E6%9D%BF%E6%88%BF/4.jpg"
+            },
+            {
+              "order": "5",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%88%AB%E5%A2%85%E7%A9%BA%E9%97%B4/2.%E6%B3%95%E5%BC%8F%E9%A3%8E%E6%A0%BC%E6%A0%B7%E6%9D%BF%E6%88%BF/5.jpg"
+            },
+            {
+              "order": "6",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%88%AB%E5%A2%85%E7%A9%BA%E9%97%B4/2.%E6%B3%95%E5%BC%8F%E9%A3%8E%E6%A0%BC%E6%A0%B7%E6%9D%BF%E6%88%BF/6.jpg"
+            }
+          ]
+        },
+        {
+          "name": "天府世家样板房",
+          "address": "成都",
+          "details": "本案设计彰显典雅、浪漫的地中海风情。采用地中海典型的蓝白色为基调，利用回游空间的手法将空间流线合理化，客餐厅空间运用天花横梁处理与抽槽的的设计手法，避免了原建筑结构的弱点，将天花最高点释放，扩大了整个空间的体验感与舒适感。设计有意将地中海建筑风格中的拱形门。用白色开放漆饰面代替了白灰泥墙的建筑特点在室内空间细致的表现出来。客餐厅地面采用爵士白大理石为主色调，用蓝白马赛克波打与精致的蓝色小方砖为点缀，蓝色仿古砖与彩色仿古砖腰线在厨房及卫生间的合理运用将地中海风格表现得淋漓尽致。空间上大面积的蓝与白，软装配饰局部的米色搭配，清澈无瑕，诠释着人们对蓝天白云，碧海银沙的无尽渴望。带有迷藏感的空间格局，提供给居者不同的心理感受。",
+          "order": "3",
+          "img": [
+            {
+              "order": "1",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%88%AB%E5%A2%85%E7%A9%BA%E9%97%B4/3.%E5%A4%A9%E5%BA%9C%E4%B8%96%E5%AE%B6%E6%A0%B7%E6%9D%BF%E6%88%BF/1.jpg"
+            },
+            {
+              "order": "2",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%88%AB%E5%A2%85%E7%A9%BA%E9%97%B4/3.%E5%A4%A9%E5%BA%9C%E4%B8%96%E5%AE%B6%E6%A0%B7%E6%9D%BF%E6%88%BF/2.jpg"
+            },
+            {
+              "order": "3",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%88%AB%E5%A2%85%E7%A9%BA%E9%97%B4/3.%E5%A4%A9%E5%BA%9C%E4%B8%96%E5%AE%B6%E6%A0%B7%E6%9D%BF%E6%88%BF/3.jpg"
+            },
+            {
+              "order": "4",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%88%AB%E5%A2%85%E7%A9%BA%E9%97%B4/3.%E5%A4%A9%E5%BA%9C%E4%B8%96%E5%AE%B6%E6%A0%B7%E6%9D%BF%E6%88%BF/4.jpg"
+            },
+            {
+              "order": "5",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%88%AB%E5%A2%85%E7%A9%BA%E9%97%B4/3.%E5%A4%A9%E5%BA%9C%E4%B8%96%E5%AE%B6%E6%A0%B7%E6%9D%BF%E6%88%BF/5.jpg"
+            },
+            {
+              "order": "6",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%88%AB%E5%A2%85%E7%A9%BA%E9%97%B4/3.%E5%A4%A9%E5%BA%9C%E4%B8%96%E5%AE%B6%E6%A0%B7%E6%9D%BF%E6%88%BF/6.jpg"
+            },
+            {
+              "order": "7",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%88%AB%E5%A2%85%E7%A9%BA%E9%97%B4/3.%E5%A4%A9%E5%BA%9C%E4%B8%96%E5%AE%B6%E6%A0%B7%E6%9D%BF%E6%88%BF/7.jpg"
+            }
+          ]
+        },
+        {
+          "name": "麓湖样板房",
+          "address": "成都",
+          "details": "",
+          "order": "4",
+          "img": [
+            {
+              "order": "1",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%88%AB%E5%A2%85%E7%A9%BA%E9%97%B4/4.%E9%BA%93%E6%B9%96%E6%A0%B7%E6%9D%BF%E6%88%BF/1.jpg"
+            },
+            {
+              "order": "2",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%88%AB%E5%A2%85%E7%A9%BA%E9%97%B4/4.%E9%BA%93%E6%B9%96%E6%A0%B7%E6%9D%BF%E6%88%BF/2.jpg"
+            },
+            {
+              "order": "3",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%88%AB%E5%A2%85%E7%A9%BA%E9%97%B4/4.%E9%BA%93%E6%B9%96%E6%A0%B7%E6%9D%BF%E6%88%BF/3.jpg"
+            },
+            {
+              "order": "4",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%88%AB%E5%A2%85%E7%A9%BA%E9%97%B4/4.%E9%BA%93%E6%B9%96%E6%A0%B7%E6%9D%BF%E6%88%BF/4.jpg"
+            },
+            {
+              "order": "5",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%88%AB%E5%A2%85%E7%A9%BA%E9%97%B4/4.%E9%BA%93%E6%B9%96%E6%A0%B7%E6%9D%BF%E6%88%BF/5.jpg"
+            },
+            {
+              "order": "6",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%88%AB%E5%A2%85%E7%A9%BA%E9%97%B4/4.%E9%BA%93%E6%B9%96%E6%A0%B7%E6%9D%BF%E6%88%BF/6.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cateId": 3,
+      "cateName": "餐饮空间",
+      "data": [
+        {
+          "name": "外婆私房菜",
+          "address": "深圳",
+          "details": "",
+          "order": "1",
+          "img": [
+            {
+              "order": "1",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%A4%90%E9%A5%AE%E7%A9%BA%E9%97%B4/1.%E5%A4%96%E5%A9%86%E7%A7%81%E6%88%BF%E8%8F%9C/1.jpg"
+            },
+            {
+              "order": "2",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%A4%90%E9%A5%AE%E7%A9%BA%E9%97%B4/1.%E5%A4%96%E5%A9%86%E7%A7%81%E6%88%BF%E8%8F%9C/2.jpg"
+            },
+            {
+              "order": "3",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%A4%90%E9%A5%AE%E7%A9%BA%E9%97%B4/1.%E5%A4%96%E5%A9%86%E7%A7%81%E6%88%BF%E8%8F%9C/3.jpg"
+            },
+            {
+              "order": "4",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%A4%90%E9%A5%AE%E7%A9%BA%E9%97%B4/1.%E5%A4%96%E5%A9%86%E7%A7%81%E6%88%BF%E8%8F%9C/4.jpg"
+            },
+            {
+              "order": "5",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%A4%90%E9%A5%AE%E7%A9%BA%E9%97%B4/1.%E5%A4%96%E5%A9%86%E7%A7%81%E6%88%BF%E8%8F%9C/5.jpg"
+            },
+            {
+              "order": "6",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%A4%90%E9%A5%AE%E7%A9%BA%E9%97%B4/1.%E5%A4%96%E5%A9%86%E7%A7%81%E6%88%BF%E8%8F%9C/6.jpg"
+            },
+            {
+              "order": "7",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%A4%90%E9%A5%AE%E7%A9%BA%E9%97%B4/1.%E5%A4%96%E5%A9%86%E7%A7%81%E6%88%BF%E8%8F%9C/7.jpg"
+            },
+            {
+              "order": "8",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%A4%90%E9%A5%AE%E7%A9%BA%E9%97%B4/1.%E5%A4%96%E5%A9%86%E7%A7%81%E6%88%BF%E8%8F%9C/8.jpg"
+            },
+            {
+              "order": "9",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%A4%90%E9%A5%AE%E7%A9%BA%E9%97%B4/1.%E5%A4%96%E5%A9%86%E7%A7%81%E6%88%BF%E8%8F%9C/9.jpg"
+            },
+            {
+              "order": "10",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%A4%90%E9%A5%AE%E7%A9%BA%E9%97%B4/1.%E5%A4%96%E5%A9%86%E7%A7%81%E6%88%BF%E8%8F%9C/10.jpg"
+            }
+          ]
+        },
+        {
+          "name": "创意料理餐厅",
+          "address": "成都",
+          "details": "",
+          "order": "2",
+          "img": [
+            {
+              "order": "1",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%A4%90%E9%A5%AE%E7%A9%BA%E9%97%B4/2.%E5%88%9B%E6%84%8F%E6%96%99%E7%90%86%E9%A4%90%E5%8E%85/1.jpg"
+            },
+            {
+              "order": "2",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%A4%90%E9%A5%AE%E7%A9%BA%E9%97%B4/2.%E5%88%9B%E6%84%8F%E6%96%99%E7%90%86%E9%A4%90%E5%8E%85/2.jpg"
+            },
+            {
+              "order": "3",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%A4%90%E9%A5%AE%E7%A9%BA%E9%97%B4/2.%E5%88%9B%E6%84%8F%E6%96%99%E7%90%86%E9%A4%90%E5%8E%85/3.jpg"
+            },
+            {
+              "order": "4",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%A4%90%E9%A5%AE%E7%A9%BA%E9%97%B4/2.%E5%88%9B%E6%84%8F%E6%96%99%E7%90%86%E9%A4%90%E5%8E%85/4.jpg"
+            },
+            {
+              "order": "5",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%A4%90%E9%A5%AE%E7%A9%BA%E9%97%B4/2.%E5%88%9B%E6%84%8F%E6%96%99%E7%90%86%E9%A4%90%E5%8E%85/5.jpg"
+            }
+          ]
+        },
+        {
+          "name": "小麦町手工面坊",
+          "address": "绵阳",
+          "details": "",
+          "order": "3",
+          "img": [
+            {
+              "order": "1",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%A4%90%E9%A5%AE%E7%A9%BA%E9%97%B4/3.%E5%B0%8F%E9%BA%A6%E7%94%BA%E6%89%8B%E5%B7%A5%E9%9D%A2%E5%9D%8A/1.jpg"
+            },
+            {
+              "order": "2",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%A4%90%E9%A5%AE%E7%A9%BA%E9%97%B4/3.%E5%B0%8F%E9%BA%A6%E7%94%BA%E6%89%8B%E5%B7%A5%E9%9D%A2%E5%9D%8A/2.jpg"
+            },
+            {
+              "order": "3",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%A4%90%E9%A5%AE%E7%A9%BA%E9%97%B4/3.%E5%B0%8F%E9%BA%A6%E7%94%BA%E6%89%8B%E5%B7%A5%E9%9D%A2%E5%9D%8A/3.jpg"
+            },
+            {
+              "order": "4",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%A4%90%E9%A5%AE%E7%A9%BA%E9%97%B4/3.%E5%B0%8F%E9%BA%A6%E7%94%BA%E6%89%8B%E5%B7%A5%E9%9D%A2%E5%9D%8A/4.jpg"
+            },
+            {
+              "order": "5",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%A4%90%E9%A5%AE%E7%A9%BA%E9%97%B4/3.%E5%B0%8F%E9%BA%A6%E7%94%BA%E6%89%8B%E5%B7%A5%E9%9D%A2%E5%9D%8A/5.jpg"
+            },
+            {
+              "order": "6",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%A4%90%E9%A5%AE%E7%A9%BA%E9%97%B4/3.%E5%B0%8F%E9%BA%A6%E7%94%BA%E6%89%8B%E5%B7%A5%E9%9D%A2%E5%9D%8A/6.jpg"
+            }
+          ]
+        },
+        {
+          "img": [
+            {
+              "order": "1",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%A4%90%E9%A5%AE%E7%A9%BA%E9%97%B4/4.%E6%A1%90%E6%A2%93%E6%9E%97%E5%92%96%E5%95%A1%E9%A6%86/1.jpg"
+            },
+            {
+              "order": "2",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%A4%90%E9%A5%AE%E7%A9%BA%E9%97%B4/4.%E6%A1%90%E6%A2%93%E6%9E%97%E5%92%96%E5%95%A1%E9%A6%86/2.jpg"
+            },
+            {
+              "order": "3",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%A4%90%E9%A5%AE%E7%A9%BA%E9%97%B4/4.%E6%A1%90%E6%A2%93%E6%9E%97%E5%92%96%E5%95%A1%E9%A6%86/3.jpg"
+            },
+            {
+              "order": "4",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%A4%90%E9%A5%AE%E7%A9%BA%E9%97%B4/4.%E6%A1%90%E6%A2%93%E6%9E%97%E5%92%96%E5%95%A1%E9%A6%86/4.jpg"
+            },
+            {
+              "order": "5",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%A4%90%E9%A5%AE%E7%A9%BA%E9%97%B4/4.%E6%A1%90%E6%A2%93%E6%9E%97%E5%92%96%E5%95%A1%E9%A6%86/5.jpg"
+            },
+            {
+              "order": "6",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%A4%90%E9%A5%AE%E7%A9%BA%E9%97%B4/4.%E6%A1%90%E6%A2%93%E6%9E%97%E5%92%96%E5%95%A1%E9%A6%86/6.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cateId": 4,
+      "cateName": "酒店空间",
+      "data": [
+        {
+          "name": "蓝光己庄酒店-丛林篇",
+          "address": "峨眉山",
+          "details": " 从故事到空间，从二维到三维，——悟啦啦亲子酒店将是一个非比寻常的精彩的设计型亲子酒店。我们的故事从小悟的奇幻历险开始，4个楼层分别对应4个故事主题，48个房间对应48个奇妙故事。房间的墙画都来自于故事内容，空间的色彩从插画中提炼。所有陈设家具的材质和形式都与故事主题相关联。",
+          "order": "1",
+          "img": [
+            {
+              "order": "1",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/1.%E8%93%9D%E5%85%89%E5%B7%B1%E5%BA%84%E9%85%92%E5%BA%97-%E4%B8%9B%E6%9E%97%E7%AF%87/1.png"
+            },
+            {
+              "order": "2",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/1.%E8%93%9D%E5%85%89%E5%B7%B1%E5%BA%84%E9%85%92%E5%BA%97-%E4%B8%9B%E6%9E%97%E7%AF%87/2.png"
+            },
+            {
+              "order": "3",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/1.%E8%93%9D%E5%85%89%E5%B7%B1%E5%BA%84%E9%85%92%E5%BA%97-%E4%B8%9B%E6%9E%97%E7%AF%87/3.png"
+            },
+            {
+              "order": "4",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/1.%E8%93%9D%E5%85%89%E5%B7%B1%E5%BA%84%E9%85%92%E5%BA%97-%E4%B8%9B%E6%9E%97%E7%AF%87/4.png"
+            },
+            {
+              "order": "5",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/1.%E8%93%9D%E5%85%89%E5%B7%B1%E5%BA%84%E9%85%92%E5%BA%97-%E4%B8%9B%E6%9E%97%E7%AF%87/5.png"
+            },
+            {
+              "order": "6",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/1.%E8%93%9D%E5%85%89%E5%B7%B1%E5%BA%84%E9%85%92%E5%BA%97-%E4%B8%9B%E6%9E%97%E7%AF%87/6.png"
+            },
+            {
+              "order": "7",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/1.%E8%93%9D%E5%85%89%E5%B7%B1%E5%BA%84%E9%85%92%E5%BA%97-%E4%B8%9B%E6%9E%97%E7%AF%87/7.png"
+            },
+            {
+              "order": "8",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/1.%E8%93%9D%E5%85%89%E5%B7%B1%E5%BA%84%E9%85%92%E5%BA%97-%E4%B8%9B%E6%9E%97%E7%AF%87/8.png"
+            }
+          ]
+        },
+        {
+          "name": "唯依主题酒店",
+          "address": "成都",
+          "details": "",
+          "order": "9",
+          "img": [
+            {
+              "order": "1",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/9.%E5%94%AF%E4%BE%9D%E4%B8%BB%E9%A2%98%E9%85%92%E5%BA%97/1.jpg"
+            },
+            {
+              "order": "2",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/9.%E5%94%AF%E4%BE%9D%E4%B8%BB%E9%A2%98%E9%85%92%E5%BA%97/2.jpg"
+            },
+            {
+              "order": "3",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/9.%E5%94%AF%E4%BE%9D%E4%B8%BB%E9%A2%98%E9%85%92%E5%BA%97/3.jpg"
+            },
+            {
+              "order": "4",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/9.%E5%94%AF%E4%BE%9D%E4%B8%BB%E9%A2%98%E9%85%92%E5%BA%97/4.jpg"
+            },
+            {
+              "order": "5",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/9.%E5%94%AF%E4%BE%9D%E4%B8%BB%E9%A2%98%E9%85%92%E5%BA%97/5.jpg"
+            },
+            {
+              "order": "6",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/9.%E5%94%AF%E4%BE%9D%E4%B8%BB%E9%A2%98%E9%85%92%E5%BA%97/6.jpg"
+            }
+          ]
+        },
+        {
+          "name": "成都沙湾希尔顿欢朋酒店",
+          "address": "成都",
+          "details": "",
+          "order": "7",
+          "img": [
+            {
+              "order": "1",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/7.%E6%88%90%E9%83%BD%E6%B2%99%E6%B9%BE%E5%B8%8C%E5%B0%94%E9%A1%BF%E6%AC%A2%E6%9C%8B%E9%85%92%E5%BA%97/1.jpg"
+            },
+            {
+              "order": "2",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/7.%E6%88%90%E9%83%BD%E6%B2%99%E6%B9%BE%E5%B8%8C%E5%B0%94%E9%A1%BF%E6%AC%A2%E6%9C%8B%E9%85%92%E5%BA%97/2.jpg"
+            },
+            {
+              "order": "3",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/7.%E6%88%90%E9%83%BD%E6%B2%99%E6%B9%BE%E5%B8%8C%E5%B0%94%E9%A1%BF%E6%AC%A2%E6%9C%8B%E9%85%92%E5%BA%97/3.jpg"
+            },
+            {
+              "order": "4",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/7.%E6%88%90%E9%83%BD%E6%B2%99%E6%B9%BE%E5%B8%8C%E5%B0%94%E9%A1%BF%E6%AC%A2%E6%9C%8B%E9%85%92%E5%BA%97/4.jpg"
+            },
+            {
+              "order": "5",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/7.%E6%88%90%E9%83%BD%E6%B2%99%E6%B9%BE%E5%B8%8C%E5%B0%94%E9%A1%BF%E6%AC%A2%E6%9C%8B%E9%85%92%E5%BA%97/5.jpg"
+            },
+            {
+              "order": "6",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/7.%E6%88%90%E9%83%BD%E6%B2%99%E6%B9%BE%E5%B8%8C%E5%B0%94%E9%A1%BF%E6%AC%A2%E6%9C%8B%E9%85%92%E5%BA%97/6.jpg"
+            },
+            {
+              "order": "7",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/7.%E6%88%90%E9%83%BD%E6%B2%99%E6%B9%BE%E5%B8%8C%E5%B0%94%E9%A1%BF%E6%AC%A2%E6%9C%8B%E9%85%92%E5%BA%97/7.jpg"
+            },
+            {
+              "order": "8",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/7.%E6%88%90%E9%83%BD%E6%B2%99%E6%B9%BE%E5%B8%8C%E5%B0%94%E9%A1%BF%E6%AC%A2%E6%9C%8B%E9%85%92%E5%BA%97/8.jpg"
+            },
+            {
+              "order": "9",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/7.%E6%88%90%E9%83%BD%E6%B2%99%E6%B9%BE%E5%B8%8C%E5%B0%94%E9%A1%BF%E6%AC%A2%E6%9C%8B%E9%85%92%E5%BA%97/9.jpg"
+            }
+          ]
+        },
+        {
+          "name": "蓝光己庄酒店-国学篇",
+          "address": "峨眉山",
+          "details": " 从故事到空间，从二维到三维，——悟啦啦亲子酒店将是一个非比寻常的精彩的设计型亲子酒店。我们的故事从小悟的奇幻历险开始，4个楼层分别对应4个故事主题，48个房间对应48个奇妙故事。房间的墙画都来自于故事内容，空间的色彩从插画中提炼。所有陈设家具的材质和形式都与故事主题相关联。",
+          "order": "2",
+          "img": [
+            {
+              "order": "1",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/2.%E8%93%9D%E5%85%89%E5%B7%B1%E5%BA%84%E9%85%92%E5%BA%97-%E5%9B%BD%E5%AD%A6%E7%AF%87/1.png"
+            },
+            {
+              "order": "2",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/2.%E8%93%9D%E5%85%89%E5%B7%B1%E5%BA%84%E9%85%92%E5%BA%97-%E5%9B%BD%E5%AD%A6%E7%AF%87/2.png"
+            },
+            {
+              "order": "3",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/2.%E8%93%9D%E5%85%89%E5%B7%B1%E5%BA%84%E9%85%92%E5%BA%97-%E5%9B%BD%E5%AD%A6%E7%AF%87/3.png"
+            },
+            {
+              "order": "4",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/2.%E8%93%9D%E5%85%89%E5%B7%B1%E5%BA%84%E9%85%92%E5%BA%97-%E5%9B%BD%E5%AD%A6%E7%AF%87/4.png"
+            },
+            {
+              "order": "5",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/2.%E8%93%9D%E5%85%89%E5%B7%B1%E5%BA%84%E9%85%92%E5%BA%97-%E5%9B%BD%E5%AD%A6%E7%AF%87/5.png"
+            },
+            {
+              "order": "6",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/2.%E8%93%9D%E5%85%89%E5%B7%B1%E5%BA%84%E9%85%92%E5%BA%97-%E5%9B%BD%E5%AD%A6%E7%AF%87/6.png"
+            }
+          ]
+        },
+        {
+          "name": "蓝光己庄酒店-海洋篇",
+          "address": "峨眉山",
+          "details": " 从故事到空间，从二维到三维，——悟啦啦亲子酒店将是一个非比寻常的精彩的设计型亲子酒店。我们的故事从小悟的奇幻历险开始，4个楼层分别对应4个故事主题，48个房间对应48个奇妙故事。房间的墙画都来自于故事内容，空间的色彩从插画中提炼。所有陈设家具的材质和形式都与故事主题相关联。",
+          "order": "3",
+          "img": [
+            {
+              "order": "1",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/3.%E8%93%9D%E5%85%89%E5%B7%B1%E5%BA%84%E9%85%92%E5%BA%97-%E6%B5%B7%E6%B4%8B%E7%AF%87/1.png"
+            },
+            {
+              "order": "2",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/3.%E8%93%9D%E5%85%89%E5%B7%B1%E5%BA%84%E9%85%92%E5%BA%97-%E6%B5%B7%E6%B4%8B%E7%AF%87/2.png"
+            },
+            {
+              "order": "3",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/3.%E8%93%9D%E5%85%89%E5%B7%B1%E5%BA%84%E9%85%92%E5%BA%97-%E6%B5%B7%E6%B4%8B%E7%AF%87/3.png"
+            },
+            {
+              "order": "4",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/3.%E8%93%9D%E5%85%89%E5%B7%B1%E5%BA%84%E9%85%92%E5%BA%97-%E6%B5%B7%E6%B4%8B%E7%AF%87/4.png"
+            },
+            {
+              "order": "5",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/3.%E8%93%9D%E5%85%89%E5%B7%B1%E5%BA%84%E9%85%92%E5%BA%97-%E6%B5%B7%E6%B4%8B%E7%AF%87/5.png"
+            },
+            {
+              "order": "6",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/3.%E8%93%9D%E5%85%89%E5%B7%B1%E5%BA%84%E9%85%92%E5%BA%97-%E6%B5%B7%E6%B4%8B%E7%AF%87/6.png"
+            },
+            {
+              "order": "7",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/3.%E8%93%9D%E5%85%89%E5%B7%B1%E5%BA%84%E9%85%92%E5%BA%97-%E6%B5%B7%E6%B4%8B%E7%AF%87/7.png"
+            }
+          ]
+        },
+        {
+          "name": "蓝光己庄酒店-星空篇",
+          "address": "峨眉山",
+          "details": " 从故事到空间，从二维到三维，——悟啦啦亲子酒店将是一个非比寻常的精彩的设计型亲子酒店。我们的故事从小悟的奇幻历险开始，4个楼层分别对应4个故事主题，48个房间对应48个奇妙故事。房间的墙画都来自于故事内容，空间的色彩从插画中提炼。所有陈设家具的材质和形式都与故事主题相关联。",
+          "order": "4",
+          "img": [
+            {
+              "order": "1",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/4.%E8%93%9D%E5%85%89%E5%B7%B1%E5%BA%84%E9%85%92%E5%BA%97-%E6%98%9F%E7%A9%BA%E7%AF%87/1.png"
+            },
+            {
+              "order": "2",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/4.%E8%93%9D%E5%85%89%E5%B7%B1%E5%BA%84%E9%85%92%E5%BA%97-%E6%98%9F%E7%A9%BA%E7%AF%87/2.png"
+            },
+            {
+              "order": "3",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/4.%E8%93%9D%E5%85%89%E5%B7%B1%E5%BA%84%E9%85%92%E5%BA%97-%E6%98%9F%E7%A9%BA%E7%AF%87/3.png"
+            },
+            {
+              "order": "4",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/4.%E8%93%9D%E5%85%89%E5%B7%B1%E5%BA%84%E9%85%92%E5%BA%97-%E6%98%9F%E7%A9%BA%E7%AF%87/4.png"
+            },
+            {
+              "order": "5",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/4.%E8%93%9D%E5%85%89%E5%B7%B1%E5%BA%84%E9%85%92%E5%BA%97-%E6%98%9F%E7%A9%BA%E7%AF%87/5.png"
+            },
+            {
+              "order": "6",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/4.%E8%93%9D%E5%85%89%E5%B7%B1%E5%BA%84%E9%85%92%E5%BA%97-%E6%98%9F%E7%A9%BA%E7%AF%87/6.png"
+            },
+            {
+              "order": "7",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/4.%E8%93%9D%E5%85%89%E5%B7%B1%E5%BA%84%E9%85%92%E5%BA%97-%E6%98%9F%E7%A9%BA%E7%AF%87/7.png"
+            },
+            {
+              "order": "8",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/4.%E8%93%9D%E5%85%89%E5%B7%B1%E5%BA%84%E9%85%92%E5%BA%97-%E6%98%9F%E7%A9%BA%E7%AF%87/8.png"
+            }
+          ]
+        },
+        {
+          "name": "西安华裔酒店",
+          "address": "西安",
+          "details": "",
+          "order": "6",
+          "img": [
+            {
+              "order": "1",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/6.%E8%A5%BF%E5%AE%89%E5%8D%8E%E8%A3%94%E9%85%92%E5%BA%97/1.jpg"
+            },
+            {
+              "order": "2",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/6.%E8%A5%BF%E5%AE%89%E5%8D%8E%E8%A3%94%E9%85%92%E5%BA%97/2.jpg"
+            },
+            {
+              "order": "3",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/6.%E8%A5%BF%E5%AE%89%E5%8D%8E%E8%A3%94%E9%85%92%E5%BA%97/3.jpg"
+            },
+            {
+              "order": "4",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/6.%E8%A5%BF%E5%AE%89%E5%8D%8E%E8%A3%94%E9%85%92%E5%BA%97/4.jpg"
+            },
+            {
+              "order": "5",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/6.%E8%A5%BF%E5%AE%89%E5%8D%8E%E8%A3%94%E9%85%92%E5%BA%97/5.jpg"
+            },
+            {
+              "order": "6",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/6.%E8%A5%BF%E5%AE%89%E5%8D%8E%E8%A3%94%E9%85%92%E5%BA%97/6.jpg"
+            }
+          ]
+        },
+        {
+          "name": "半山艺术酒店",
+          "address": "成都",
+          "details": "",
+          "order": "8",
+          "img": [
+            {
+              "order": "1",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/8.%E5%8D%8A%E5%B1%B1%E8%89%BA%E6%9C%AF%E9%85%92%E5%BA%97/1.jpg"
+            },
+            {
+              "order": "2",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/8.%E5%8D%8A%E5%B1%B1%E8%89%BA%E6%9C%AF%E9%85%92%E5%BA%97/2.jpg"
+            },
+            {
+              "order": "3",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/8.%E5%8D%8A%E5%B1%B1%E8%89%BA%E6%9C%AF%E9%85%92%E5%BA%97/3.jpg"
+            },
+            {
+              "order": "4",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/8.%E5%8D%8A%E5%B1%B1%E8%89%BA%E6%9C%AF%E9%85%92%E5%BA%97/4.jpg"
+            },
+            {
+              "order": "5",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/8.%E5%8D%8A%E5%B1%B1%E8%89%BA%E6%9C%AF%E9%85%92%E5%BA%97/5.jpg"
+            },
+            {
+              "order": "6",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/8.%E5%8D%8A%E5%B1%B1%E8%89%BA%E6%9C%AF%E9%85%92%E5%BA%97/6.jpg"
+            }
+          ]
+        },
+        {
+          "name": "峨眉山禅院",
+          "address": "峨眉山",
+          "details": "",
+          "order": "10",
+          "img": [
+            {
+              "order": "1",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/10.%E5%B3%A8%E7%9C%89%E5%B1%B1%E7%A6%85%E9%99%A2/1.jpg"
+            },
+            {
+              "order": "2",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/10.%E5%B3%A8%E7%9C%89%E5%B1%B1%E7%A6%85%E9%99%A2/2.jpg"
+            },
+            {
+              "order": "3",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/10.%E5%B3%A8%E7%9C%89%E5%B1%B1%E7%A6%85%E9%99%A2/3.jpg"
+            },
+            {
+              "order": "4",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/10.%E5%B3%A8%E7%9C%89%E5%B1%B1%E7%A6%85%E9%99%A2/4.jpg"
+            },
+            {
+              "order": "5",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/10.%E5%B3%A8%E7%9C%89%E5%B1%B1%E7%A6%85%E9%99%A2/5.jpg"
+            }
+          ]
+        },
+        {
+          "name": "同和文化休闲会所",
+          "address": "成都",
+          "details": "",
+          "order": "11",
+          "img": [
+            {
+              "order": "1",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/11.%E5%90%8C%E5%92%8C%E6%96%87%E5%8C%96%E4%BC%91%E9%97%B2%E4%BC%9A%E6%89%80/1.jpg"
+            },
+            {
+              "order": "2",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/11.%E5%90%8C%E5%92%8C%E6%96%87%E5%8C%96%E4%BC%91%E9%97%B2%E4%BC%9A%E6%89%80/2.jpg"
+            },
+            {
+              "order": "3",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/11.%E5%90%8C%E5%92%8C%E6%96%87%E5%8C%96%E4%BC%91%E9%97%B2%E4%BC%9A%E6%89%80/3.jpg"
+            },
+            {
+              "order": "4",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/11.%E5%90%8C%E5%92%8C%E6%96%87%E5%8C%96%E4%BC%91%E9%97%B2%E4%BC%9A%E6%89%80/4.jpg"
+            },
+            {
+              "order": "5",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/11.%E5%90%8C%E5%92%8C%E6%96%87%E5%8C%96%E4%BC%91%E9%97%B2%E4%BC%9A%E6%89%80/5.jpg"
+            },
+            {
+              "order": "6",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/11.%E5%90%8C%E5%92%8C%E6%96%87%E5%8C%96%E4%BC%91%E9%97%B2%E4%BC%9A%E6%89%80/6.jpg"
+            },
+            {
+              "order": "7",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/11.%E5%90%8C%E5%92%8C%E6%96%87%E5%8C%96%E4%BC%91%E9%97%B2%E4%BC%9A%E6%89%80/7.jpg"
+            },
+            {
+              "order": "8",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E9%85%92%E5%BA%97%E7%A9%BA%E9%97%B4/11.%E5%90%8C%E5%92%8C%E6%96%87%E5%8C%96%E4%BC%91%E9%97%B2%E4%BC%9A%E6%89%80/8.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cateId": 5,
+      "cateName": "其他空间",
+      "data": [
+        {
+          "name": "万科（售楼处）",
+          "address": "南充",
+          "details": "",
+          "order": "1",
+          "img": [
+            {
+              "order": "1",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/1.%E4%B8%87%E7%A7%91%EF%BC%88%E5%94%AE%E6%A5%BC%E5%A4%84%EF%BC%89/1.jpg"
+            },
+            {
+              "order": "2",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/1.%E4%B8%87%E7%A7%91%EF%BC%88%E5%94%AE%E6%A5%BC%E5%A4%84%EF%BC%89/2.jpg"
+            },
+            {
+              "order": "3",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/1.%E4%B8%87%E7%A7%91%EF%BC%88%E5%94%AE%E6%A5%BC%E5%A4%84%EF%BC%89/3.jpg"
+            },
+            {
+              "order": "4",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/1.%E4%B8%87%E7%A7%91%EF%BC%88%E5%94%AE%E6%A5%BC%E5%A4%84%EF%BC%89/4.jpg"
+            },
+            {
+              "order": "5",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/1.%E4%B8%87%E7%A7%91%EF%BC%88%E5%94%AE%E6%A5%BC%E5%A4%84%EF%BC%89/5.jpg"
+            },
+            {
+              "order": "6",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/1.%E4%B8%87%E7%A7%91%EF%BC%88%E5%94%AE%E6%A5%BC%E5%A4%84%EF%BC%89/6.jpg"
+            },
+            {
+              "order": "7",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/1.%E4%B8%87%E7%A7%91%EF%BC%88%E5%94%AE%E6%A5%BC%E5%A4%84%EF%BC%89/7.jpg"
+            },
+            {
+              "order": "8",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/1.%E4%B8%87%E7%A7%91%EF%BC%88%E5%94%AE%E6%A5%BC%E5%A4%84%EF%BC%89/8.jpg"
+            }
+          ]
+        },
+        {
+          "name": "EOGO英国英爵影响展厅",
+          "address": "成都",
+          "details": "",
+          "order": "2",
+          "img": [
+            {
+              "order": "1",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/2.EOGO%E8%8B%B1%E5%9B%BD%E8%8B%B1%E7%88%B5%E5%BD%B1%E5%93%8D%E5%B1%95%E5%8E%85/1.jpg"
+            },
+            {
+              "order": "2",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/2.EOGO%E8%8B%B1%E5%9B%BD%E8%8B%B1%E7%88%B5%E5%BD%B1%E5%93%8D%E5%B1%95%E5%8E%85/2.jpg"
+            },
+            {
+              "order": "3",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/2.EOGO%E8%8B%B1%E5%9B%BD%E8%8B%B1%E7%88%B5%E5%BD%B1%E5%93%8D%E5%B1%95%E5%8E%85/3.jpg"
+            },
+            {
+              "order": "4",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/2.EOGO%E8%8B%B1%E5%9B%BD%E8%8B%B1%E7%88%B5%E5%BD%B1%E5%93%8D%E5%B1%95%E5%8E%85/4.jpg"
+            },
+            {
+              "order": "5",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/2.EOGO%E8%8B%B1%E5%9B%BD%E8%8B%B1%E7%88%B5%E5%BD%B1%E5%93%8D%E5%B1%95%E5%8E%85/5.jpg"
+            },
+            {
+              "order": "6",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/2.EOGO%E8%8B%B1%E5%9B%BD%E8%8B%B1%E7%88%B5%E5%BD%B1%E5%93%8D%E5%B1%95%E5%8E%85/6.jpg"
+            },
+            {
+              "order": "7",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/2.EOGO%E8%8B%B1%E5%9B%BD%E8%8B%B1%E7%88%B5%E5%BD%B1%E5%93%8D%E5%B1%95%E5%8E%85/7.jpg"
+            }
+          ]
+        },
+        {
+          "name": "婚纱店",
+          "address": "成都",
+          "details": "",
+          "order": "3",
+          "img": [
+            {
+              "order": "1",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/3.%E5%A9%9A%E7%BA%B1%E5%BA%97/1.jpg"
+            },
+            {
+              "order": "2",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/3.%E5%A9%9A%E7%BA%B1%E5%BA%97/2.jpg"
+            },
+            {
+              "order": "3",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/3.%E5%A9%9A%E7%BA%B1%E5%BA%97/3.jpg"
+            },
+            {
+              "order": "4",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/3.%E5%A9%9A%E7%BA%B1%E5%BA%97/4.jpg"
+            },
+            {
+              "order": "5",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/3.%E5%A9%9A%E7%BA%B1%E5%BA%97/5.jpg"
+            },
+            {
+              "order": "6",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/3.%E5%A9%9A%E7%BA%B1%E5%BA%97/6.jpg"
+            }
+          ]
+        },
+        {
+          "name": "电影院",
+          "address": "成都",
+          "details": "",
+          "order": "4",
+          "img": [
+            {
+              "order": "1",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/4.%E7%94%B5%E5%BD%B1%E9%99%A2/1.jpg"
+            },
+            {
+              "order": "2",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/4.%E7%94%B5%E5%BD%B1%E9%99%A2/2.jpg"
+            },
+            {
+              "order": "3",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/4.%E7%94%B5%E5%BD%B1%E9%99%A2/3.jpg"
+            },
+            {
+              "order": "4",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/4.%E7%94%B5%E5%BD%B1%E9%99%A2/4.jpg"
+            },
+            {
+              "order": "5",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/4.%E7%94%B5%E5%BD%B1%E9%99%A2/5.jpg"
+            },
+            {
+              "order": "6",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/4.%E7%94%B5%E5%BD%B1%E9%99%A2/6.jpg"
+            },
+            {
+              "order": "7",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/4.%E7%94%B5%E5%BD%B1%E9%99%A2/7.jpg"
+            }
+          ]
+        },
+        {
+          "name": "本色酒吧",
+          "address": "成都",
+          "details": "",
+          "order": "5",
+          "img": [
+            {
+              "order": "1",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/5.%E6%9C%AC%E8%89%B2%E9%85%92%E5%90%A7/1.jpg"
+            },
+            {
+              "order": "2",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/5.%E6%9C%AC%E8%89%B2%E9%85%92%E5%90%A7/2.jpg"
+            },
+            {
+              "order": "3",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/5.%E6%9C%AC%E8%89%B2%E9%85%92%E5%90%A7/3.jpg"
+            },
+            {
+              "order": "4",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/5.%E6%9C%AC%E8%89%B2%E9%85%92%E5%90%A7/4.jpg"
+            },
+            {
+              "order": "5",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/5.%E6%9C%AC%E8%89%B2%E9%85%92%E5%90%A7/5.jpg"
+            },
+            {
+              "order": "6",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/5.%E6%9C%AC%E8%89%B2%E9%85%92%E5%90%A7/6.jpg"
+            }
+          ]
+        },
+        {
+          "name": "金沙国际KTV",
+          "address": "成都",
+          "details": "",
+          "order": "6",
+          "img": [
+            {
+              "order": "1",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/6.%E9%87%91%E6%B2%99%E5%9B%BD%E9%99%85KTV/1.jpg"
+            },
+            {
+              "order": "2",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/6.%E9%87%91%E6%B2%99%E5%9B%BD%E9%99%85KTV/2.jpg"
+            },
+            {
+              "order": "3",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/6.%E9%87%91%E6%B2%99%E5%9B%BD%E9%99%85KTV/3.jpg"
+            },
+            {
+              "order": "4",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/6.%E9%87%91%E6%B2%99%E5%9B%BD%E9%99%85KTV/4.jpg"
+            },
+            {
+              "order": "5",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/6.%E9%87%91%E6%B2%99%E5%9B%BD%E9%99%85KTV/5.jpg"
+            },
+            {
+              "order": "6",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/6.%E9%87%91%E6%B2%99%E5%9B%BD%E9%99%85KTV/6.jpg"
+            },
+            {
+              "order": "7",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/6.%E9%87%91%E6%B2%99%E5%9B%BD%E9%99%85KTV/7.jpg"
+            },
+            {
+              "order": "8",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/6.%E9%87%91%E6%B2%99%E5%9B%BD%E9%99%85KTV/8.jpg"
+            },
+            {
+              "order": "9",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/6.%E9%87%91%E6%B2%99%E5%9B%BD%E9%99%85KTV/9.jpg"
+            }
+          ]
+        },
+        {
+          "name": "魔法肌密",
+          "address": "成都",
+          "details": "",
+          "order": "7",
+          "img": [
+            {
+              "order": "1",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/7.%E9%AD%94%E6%B3%95%E8%82%8C%E5%AF%86/1.jpg"
+            },
+            {
+              "order": "2",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/7.%E9%AD%94%E6%B3%95%E8%82%8C%E5%AF%86/2.jpg"
+            },
+            {
+              "order": "3",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/7.%E9%AD%94%E6%B3%95%E8%82%8C%E5%AF%86/3.jpg"
+            },
+            {
+              "order": "4",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/7.%E9%AD%94%E6%B3%95%E8%82%8C%E5%AF%86/4.jpg"
+            },
+            {
+              "order": "5",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/7.%E9%AD%94%E6%B3%95%E8%82%8C%E5%AF%86/5.jpg"
+            },
+            {
+              "order": "6",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/7.%E9%AD%94%E6%B3%95%E8%82%8C%E5%AF%86/6.jpg"
+            },
+            {
+              "order": "7",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/7.%E9%AD%94%E6%B3%95%E8%82%8C%E5%AF%86/7.jpg"
+            }
+          ]
+        },
+        {
+          "name": "皇家壹号",
+          "address": "德阳",
+          "details": "",
+          "order": "8",
+          "img": [
+            {
+              "order": "1",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/8.%E7%9A%87%E5%AE%B6%E5%A3%B9%E5%8F%B7/1.jpg"
+            },
+            {
+              "order": "2",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/8.%E7%9A%87%E5%AE%B6%E5%A3%B9%E5%8F%B7/2.jpg"
+            },
+            {
+              "order": "3",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/8.%E7%9A%87%E5%AE%B6%E5%A3%B9%E5%8F%B7/3.jpg"
+            },
+            {
+              "order": "4",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/8.%E7%9A%87%E5%AE%B6%E5%A3%B9%E5%8F%B7/4.jpg"
+            },
+            {
+              "order": "5",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/8.%E7%9A%87%E5%AE%B6%E5%A3%B9%E5%8F%B7/5.jpg"
+            },
+            {
+              "order": "6",
+              "url": "https://baogongxia1.oss-cn-shenzhen.aliyuncs.com/%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BB%96%E7%A9%BA%E9%97%B4/8.%E7%9A%87%E5%AE%B6%E5%A3%B9%E5%8F%B7/6.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "service":[
+    {
+      "id": 1,
+      "title": "AI设计",
+      "title2": "Design Research",
+      "detail": "1设计研究是一项综合工程，包括产品调研、需求分析、竞品分析等，其目的是熟悉掌握产品的基本原理、状况，了解产品的使用环境、消费者的喜好、行业特性、竞品现状等，帮助设计师全面充分的了解产品。",
+      "img": "../../assets/s-big.png",
+      "ico": "../../assets/s1.png"
+    },{
+      "id": 2,
+      "title": "首选班组",
+      "title2": "Structural Design",
+      "detail": "1设计研究是一项综合工程，包括产品调研、需求分析、竞品分析等，其目的是熟悉掌握产品的基本原理、状况，了解产品的使用环境、消费者的喜好、行业特性、竞品现状等，帮助设计师全面充分的了解产品。",
+      "img": "../../assets/s-big.png",
+      "ico": "../../assets/s2.png"
+    },{
+      "id": 3,
+      "title": "AI监理",
+      "title2": "Automation Design",
+      "detail": "1设计研究是一项综合工程，包括产品调研、需求分析、竞品分析等，其目的是熟悉掌握产品的基本原理、状况，了解产品的使用环境、消费者的喜好、行业特性、竞品现状等，帮助设计师全面充分的了解产品。",
+      "img": "../../assets/s-big.png",
+      "ico": "../../assets/s1.png"
+    },{
+      "id": 4,
+      "title": "直选材料",
+      "title2": "Mould manufacturing",
+      "detail": "1设计研究是一项综合工程，包括产品调研、需求分析、竞品分析等，其目的是熟悉掌握产品的基本原理、状况，了解产品的使用环境、消费者的喜好、行业特性、竞品现状等，帮助设计师全面充分的了解产品。",
+      "img": "../../assets/s-big.png",
+      "ico": "../../assets/s3.png"
+    },{
+      "id": 5,
+      "title": "智能办公",
+      "title2": "Smart Office",
+      "detail": "1设计研究是一项综合工程，包括产品调研、需求分析、竞品分析等，其目的是熟悉掌握产品的基本原理、状况，了解产品的使用环境、消费者的喜好、行业特性、竞品现状等，帮助设计师全面充分的了解产品。",
+      "img": "../../assets/s-big.png",
+      "ico": "../../assets/zn.png"
+    }
+  ]
+
+}
